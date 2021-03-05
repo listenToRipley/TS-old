@@ -1,0 +1,1 @@
+let todo: string = "Pickup on Typescript"
