@@ -1,1 +1,2 @@
-var todo = "Pickup on Typescript";
+let todo = "Pickup on Typescript";
+let name = "Natalie"
