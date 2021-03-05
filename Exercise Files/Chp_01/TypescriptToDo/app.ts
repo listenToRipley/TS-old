@@ -1,1 +1,1 @@
-let todo: string = "Pickup on Typescript"
+let todo: string = "Pickup on Typescript";
