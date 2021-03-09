@@ -2,10 +2,10 @@ var container = document.getElementById('container');
 
 var todo = {
     id: 123,
-    name: 'Pick up drycleaning',
+    name: 'Feed the dog',
     completed: true
 }
-
+//template strings, use back ticks and use template literals 
 container.innerHTML = `
 <div todo='${todo.id}' class="list-group-item}">
     <i class="${ todo.completed ? "" : "hidden" } text-success glyphicon glyphicon-ok"></i>
