@@ -11,4 +11,6 @@ function countdown(initial, final = 0, interval = 1) {
 
 }
 
-countdown(10, 5, 2)
+// countdown(10, 5, 2)
+countdown(20);
+//or as much as we need 
