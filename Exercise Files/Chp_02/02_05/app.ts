@@ -12,5 +12,5 @@ for (var value in array) { //in
 //vs for of
 
 for (var value of array) { //in 
-    console.log(content);
+    console.log(content); //index value is not is not required like in requires
 }
